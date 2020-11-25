@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-<!--
-**JeanFrancoisUccelli/JeanFrancoisUccelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# :man_technologist: Jeff Uccelli
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/jeff-uccelli/)](https://www.https://www.linkedin.com/in/jeff-uccelli/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanfrancoisuccelli@gmail.com)](mailto:jeanfrancoisuccelli@gmail.com)
 
 
     Hello my name is Jeff Uccelli, Fullstack JavaScript Junior Developer and aspiring DevOps.
+
+## Knowledges
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/JeanFrancoisUccelli/)](https://github.com/JeanFrancoisUccelli/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/JeanFrancoisUccelli/)](https://github.com/JeanFrancoisUccelli/)
@@ -29,12 +31,11 @@
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/JeanFrancoisUccelli/)](https://github.com/JeanFrancoisUccelli/)
 
-- 🔭 I’m currently working on [Telaqua](https://telaqua.com) project, as full stack intern dev ( showcase site and mobil application)
-French start-up developing connected solutions for water management in agriculture
+
+- 🔭 I’m currently working on [Telaqua](https://telaqua.com) project, as full stack intern dev ( showcase site and mobile application)
+        French start-up developing connected solutions for water management in agriculture
 - 🌱 I’m currently learning React Native - Expo - Apollo - GraphQL
 - 👯 I’m looking to collaborate on evry casual game project for both android and Ios devices
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: 
         by [mail](mailto:jeanfrancoisuccelli@gmail.com), 
         with [LinkedIn](https://www.https://www.linkedin.com/in/jeff-uccelli/),
