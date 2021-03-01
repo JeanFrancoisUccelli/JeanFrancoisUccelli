@@ -1,13 +1,12 @@
 ### Hi there 👋
 
+    Hello my name is Jeff Uccelli, Fullstack JavaScript Junior Developer and aspiring DevOps.
+
 
 # :man_technologist: Jeff Uccelli
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/jeff-uccelli/)](https://www.https://www.linkedin.com/in/jeff-uccelli/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanfrancoisuccelli@gmail.com)](mailto:jeanfrancoisuccelli@gmail.com)
-
-
-    Hello my name is Jeff Uccelli, Fullstack JavaScript Junior Developer and aspiring DevOps.
 
 ## Knowledges
 
