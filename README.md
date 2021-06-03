@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-    Hello my name is Jeff Uccelli, Fullstack JavaScript Junior Developer and aspiring DevOps.
+    Hello my name is Jeff Uccelli, Fullstack JavaScript Junior Developer and aspiring React front-End expertise.
 
 
 # :man_technologist: Jeff Uccelli
@@ -31,10 +31,9 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/JeanFrancoisUccelli/)](https://github.com/JeanFrancoisUccelli/)
 
 
-- 🔭 I’m currently working on [Telaqua](https://telaqua.com) project, as full stack intern dev ( showcase site and mobile application)
-        French start-up developing connected solutions for water management in agriculture
-- 🌱 I’m currently learning React Native - Expo - Apollo - GraphQL
-- 👯 I’m looking to collaborate on evry casual game project for both android and Ios devices
+- 🔭 After working on [Telaqua](https://telaqua.com) project, as front-end intern dev ( showcase site and mobile application), french start-up developing connected solutions for water management in agriculture
+- 🌱 I’m currently learning Css - React Native - Expo - Apollo - GraphQL -jQuery
+- 👯 I’m looking to collaborate on evry casual game project for both android and Ios devices or any web dev project
 - 📫 How to reach me: 
         by [mail](mailto:jeanfrancoisuccelli@gmail.com), 
         with [LinkedIn](https://www.https://www.linkedin.com/in/jeff-uccelli/),
